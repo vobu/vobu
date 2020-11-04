@@ -34,6 +34,12 @@ in this meta lodge, you might be looking for ...
 
 ⚰️ (deprecated!) [ui5-codecompletion](https://github.com/vobu/ui5-codecompletion): UI5 JS-code completion for WebStorm
 
+## 📫 how to reach me
+
+🦜 [@vobu](https://twitter.com/vobu) on twitter
+
+⛵️ `vobu` on slack
+
 <!--
 **vobu/vobu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
