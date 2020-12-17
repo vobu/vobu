@@ -4,7 +4,7 @@ in this meta lodge, you might be looking for ...
 
 📇 [materials](https://vobu.github.io/materials.html) accompanying my talks/presentations
 
-
+[💚 sponsoring me](https://github.com/sponsors/vobu)! 😀
 
 ## `ui5`|`cap` stuff
 
