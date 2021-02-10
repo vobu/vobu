@@ -22,6 +22,8 @@ in this meta lodge, you might be looking for ...
 
 📐  [ui5-cap](https://github.com/vobu/ui5-cap): PoC for using UI5 + CAP along with media streaming
 
+:sparkler: [ui5-npm-custom-control](https://github.com/vobu/ui5-npm-custom-control): distribute and use UI5 controls via npm
+
 👮‍♂️ [openui5-sample-app-testing](https://github.com/vobu/openui5-sample-app-testing): (somewhat aged) sources accompanying [my blog series on testing in UI5](https://blogs.sap.com/2018/08/30/testing-ui5-apps-part-1-setup-and-unit-testing/)
 
 🧪 [ui5lab.io](https://ui5lab.io): (somewhat aging) community driven repository for UI5 custom controls
