@@ -44,9 +44,7 @@ in this meta lodge, you might be looking for ...
 
 ## at 🐙
 
-[vobu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vobu&count_private=true&show_icons=true)
-
-[top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vobu)
+![vobu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vobu&count_private=true&show_icons=true)
 
 <!--
 **vobu/vobu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
