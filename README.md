@@ -8,7 +8,7 @@ in this meta lodge, you might be looking for ...
 
 ## `ui5`|`cap` stuff
 
-🎪 [ui5-ecosystem-showcase](): coop w/ [UI5](https://openui5.org) chief architect [Peter Müßig](https://twitter.com/pmuessig) showcasing the [`ui5-tooling`](https://github.com/SAP/ui5-tooling) extensibility 
+🎪 [ui5-ecosystem-showcase](https://github.com/ui5-community/ui5-ecosystem-showcase): coop w/ [UI5](https://openui5.org) chief architect [Peter Müßig](https://twitter.com/pmuessig) showcasing the [`ui5-tooling`](https://github.com/SAP/ui5-tooling) extensibility 
 
 **>≡** [re>≡CAP](https://sapmentors.github.io/reCAP/): I gave birth to the community-driven conference on [CAP](https://cap.cloud.sap/)
 
