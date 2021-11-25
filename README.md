@@ -14,7 +14,9 @@ in this meta lodge, you might be looking for ...
 
 🧢 [cds-pg](https://github.com/sapmentors/cds-pg): bolting in PostgreSQL support for [CAP](https://cap.cloud.sap/)
 
-🔭 [wdi5](https://github.com/js-soft/wdi5): cross-platform test framework for hybrid UI5 apps
+🔭 [wdi5](https://github.com/js-soft/wdi5): cross-platform test framework for (hyrid + web-based) UI5 apps
+
+📒 [DSAG UI5 Best Practice Guide](https://1dsag.github.io/UI5-Best-Practice/): contributor
 
 📦 [ui5-webcomponents-showcase](https://github.com/vobu/ui5-webcomponents-showcase): PoC using [ui5-webcomponents](https://github.com/SAP/ui5-webcomponents) with UI5
 
@@ -32,7 +34,7 @@ in this meta lodge, you might be looking for ...
 
 ## `npm` module sources
 
-🎯 [` sap-cf-destination`](https://www.npmjs.com/package/sap-cf-destination): working SAP CP (cloud foundry) destinations from Node.js 
+🎯 [` sap-cf-destination`](https://www.npmjs.com/package/sap-cf-destination): using SAP BTP (cloud foundry) destinations in Node.js 
 
 ⚰️ (deprecated!) [ui5-codecompletion](https://github.com/vobu/ui5-codecompletion): UI5 JS-code completion for WebStorm
 
