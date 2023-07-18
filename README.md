@@ -8,41 +8,39 @@ in this meta lodge, you might be looking for ...
 
 ## `ui5`|`cap` stuff
 
-🎪 [ui5-ecosystem-showcase](https://github.com/ui5-community/ui5-ecosystem-showcase): coop w/ [UI5](https://openui5.org) chief architect [Peter Müßig](https://twitter.com/pmuessig) showcasing the [`ui5-tooling`](https://github.com/SAP/ui5-tooling) extensibility 
+🔭 [wdi5](https://github.com/ui5-community/wdi5): cross-platform test framework for UI5 apps
 
-**>≡** [re>≡CAP](https://sapmentors.github.io/reCAP/): I gave birth to the community-driven conference on [CAP](https://cap.cloud.sap/)
+🧢 [@cap-js/postgres](https://github.com/cap-js/cds-dbs/tree/main/postgres): bolting in PostgreSQL support for [CAP](https://cap.cloud.sap/)
 
-🧢 [cds-pg](https://github.com/sapmentors/cds-pg): bolting in PostgreSQL support for [CAP](https://cap.cloud.sap/)
+**>≡** [re>≡CAP](https://recap-conf.dev): I gave birth to the community-driven conference on [CAP](https://cap.cloud.sap/)
 
-🔭 [wdi5](https://github.com/js-soft/wdi5): cross-platform test framework for (hyrid + web-based) UI5 apps
+🎪 [ui5-ecosystem-showcase](https://github.com/ui5-community/ui5-ecosystem-showcase): coop w/ [UI5](https://openui5.org) chief architect [Peter Müßig](https://twitter.com/pmuessig) showcasing the [`ui5-tooling`](https://github.com/SAP/ui5-tooling) extensibility
 
 📒 [DSAG UI5 Best Practice Guide](https://1dsag.github.io/UI5-Best-Practice/): contributor
 
-📦 [ui5-webcomponents-showcase](https://github.com/vobu/ui5-webcomponents-showcase): PoC using [ui5-webcomponents](https://github.com/SAP/ui5-webcomponents) with UI5
-
-🌐 [soerver](https://github.com/vobu/soerver): standalone HTTP server cli with proxy capability
-
-📐  [ui5-cap](https://github.com/vobu/ui5-cap): PoC for using UI5 + CAP along with media streaming
-
 :sparkler: [ui5-npm-custom-control](https://github.com/vobu/ui5-npm-custom-control): distribute and use UI5 controls via npm
 
-👮‍♂️ [openui5-sample-app-testing](https://github.com/vobu/openui5-sample-app-testing): (somewhat aged) sources accompanying [my blog series on testing in UI5](https://blogs.sap.com/2018/08/30/testing-ui5-apps-part-1-setup-and-unit-testing/)
-
-🧪 [ui5lab.io](https://ui5lab.io): (somewhat aging) community driven repository for UI5 custom controls
-
-
-
-## `npm` module sources
-
-🎯 [` sap-cf-destination`](https://www.npmjs.com/package/sap-cf-destination): using SAP BTP (cloud foundry) destinations in Node.js 
-
-⚰️ (deprecated!) [ui5-codecompletion](https://github.com/vobu/ui5-codecompletion): UI5 JS-code completion for WebStorm
+🌐 [soerver](https://github.com/vobu/soerver): standalone HTTP server cli with proxy capability
 
 ## 📫 how to reach me
 
 🦜 [@vobu](https://twitter.com/vobu) on twitter
 
 ⛵️ `vobu` on slack
+
+## 💾 archive
+
+📦 (UI5 WebComponents are meanwhile retrofitted to and stable in UI5!) [ui5-webcomponents-showcase](https://github.com/vobu/ui5-webcomponents-showcase): PoC using [ui5-webcomponents](https://github.com/SAP/ui5-webcomponents) with UI5
+
+📐 (see the full product DevX setup presented at UI5con 2023!) [ui5-cap](https://github.com/vobu/ui5-cap): PoC for using UI5 + CAP along with media streaming
+
+👮‍♂️ (time moves on though approach is still valid!) [openui5-sample-app-testing](https://github.com/vobu/openui5-sample-app-testing): (somewhat aged) sources accompanying [my blog series on testing in UI5](https://blogs.sap.com/2018/08/30/testing-ui5-apps-part-1-setup-and-unit-testing/)
+
+🎯 (outdated, use Cloud SDK!) [`sap-cf-destination`](https://www.npmjs.com/package/sap-cf-destination): using SAP BTP (cloud foundry) destinations in Node.js
+
+⚰️ (deprecated!) [ui5-codecompletion](https://github.com/vobu/ui5-codecompletion): UI5 JS-code completion for WebStorm
+
+🧪 (lab's pretty much closed) [ui5lab.io](https://ui5lab.io): (somewhat aging) community driven repository for UI5 custom controls
 
 ## at 🐙
 
