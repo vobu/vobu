@@ -16,19 +16,23 @@ in this meta lodge, you might be looking for ...
 
 🎪 [ui5-ecosystem-showcase](https://github.com/ui5-community/ui5-ecosystem-showcase): coop w/ [UI5](https://openui5.org) chief architect [Peter Müßig](https://twitter.com/pmuessig) showcasing the [`ui5-tooling`](https://github.com/SAP/ui5-tooling) extensibility
 
-📒 [DSAG UI5 Best Practice Guide](https://1dsag.github.io/UI5-Best-Practice/): contributor
-
 :sparkler: [ui5-npm-custom-control](https://github.com/vobu/ui5-npm-custom-control): distribute and use UI5 controls via npm
 
 🌐 [soerver](https://github.com/vobu/soerver): standalone HTTP server cli with proxy capability
 
 ## 📫 how to reach me
 
-🦜 [@vobu](https://twitter.com/vobu) on twitter
+🦜 [@vobu](https://twitter.com/vobu) on X/twitter
 
 ⛵️ `vobu` on slack
 
+:elephant: [@vobu@saptodon.org](https://saptodon.org/@vobu)
+
+:cloud:large_blue_circle::sky: [@vobu.bsky.social](https://bsky.app/profile/vobu.bsky.social)
+
 ## 💾 archive
+
+📒 (project is in archive-mode) [DSAG UI5 Best Practice Guide](https://1dsag.github.io/UI5-Best-Practice/): contributor
 
 📦 (UI5 WebComponents are meanwhile retrofitted to and stable in UI5!) [ui5-webcomponents-showcase](https://github.com/vobu/ui5-webcomponents-showcase): PoC using [ui5-webcomponents](https://github.com/SAP/ui5-webcomponents) with UI5
 
