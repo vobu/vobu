@@ -28,7 +28,7 @@ in this meta lodge, you might be looking for ...
 
 :elephant: [@vobu@saptodon.org](https://saptodon.org/@vobu)
 
-:cloud:large_blue_circle::sky: [@vobu.bsky.social](https://bsky.app/profile/vobu.bsky.social)
+:large_blue_circle::cloud: [@vobu.bsky.social](https://bsky.app/profile/vobu.bsky.social)
 
 ## 💾 archive
 
