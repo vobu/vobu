@@ -22,13 +22,13 @@ in this meta lodge, you might be looking for ...
 
 ## 📫 how to reach me
 
-🦜 [@vobu](https://twitter.com/vobu) on X/twitter
+~🦜 @vobu on X/twitter~
 
 ⛵️ `vobu` on slack
 
 :elephant: [@vobu@saptodon.org](https://saptodon.org/@vobu)
 
-:large_blue_circle::cloud: [@vobu.bsky.social](https://bsky.app/profile/vobu.bsky.social)
+🦋 [@vobu.bsky.social](https://bsky.app/profile/vobu.bsky.social)
 
 ## 💾 archive
 
